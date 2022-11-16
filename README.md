@@ -73,4 +73,4 @@ In the [third tutorial](https://github.com/HayesGordon/chatter/tree/tutorial-003
 
 ![Episode 04 - Migrate Version 4 & Stream Firebase Extensions](https://user-images.githubusercontent.com/13705472/180415364-35520085-cff0-4139-8672-f60e089b3c6a.jpg)
 
-**Episode 04 - Migrate Version 4 & Stream Firebase Extensions** \[ [Video](https://youtu.be/Dt_taxX98sg) \] \[ [Entry Code](https://github.com/HayesGordon/chatter/tree/tutorial-004-version-four-and-firebase-extensions) \] \[ [Completed Code](https://github.com/HayesGordon/chatter/tree/tutorial-004-version-four-and-firebase-extensions) \] - Make use of Stream's Firebase Extensions to simplify authentication and migrate to V4 of the [Stream Chat Flutter Core](https://pub.dev/packages/stream_chat_flutter_core) SDK.
+
